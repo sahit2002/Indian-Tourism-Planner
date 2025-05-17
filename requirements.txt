@@ -2,3 +2,4 @@ streamlit
 pandas
 pydeck
 snowflake-connector-python
+scikit-learn
